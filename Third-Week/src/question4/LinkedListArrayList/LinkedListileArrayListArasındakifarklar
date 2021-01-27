@@ -1,0 +1,8 @@
+ArrayList, dinamik bir dizidir.İndex üzerine kurulmuş bir veri yapısıdır.
+Verilere erişmek ve verileri saklamak istersek ArrayList'i kullanırız.
+Listedeki elemanlara değişiklik yapmak yavaştır.
+
+LinkedList, çift yönlü bağlı liste veri yapısını kullanmaktadır.
+Veriler üzerinde ekleme ve çıkarma işlemleri yapacaksak LinkedList'i
+kullanırız.
+Listedeki elemanlara değişiklik yapmak hızlıdır.
